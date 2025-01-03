@@ -1,0 +1,6 @@
+{"dd":{"env":"none","service":"to-do","version":"1.0.0"},"level":"info","message":"Winston logger is set up","timestamp":"2025-01-03T12:22:51.147Z"}
+{"dd":{"env":"none","service":"to-do","version":"1.0.0"},"level":"info","message":"Server is running on http://localhost:3000","timestamp":"2025-01-03T12:22:51.286Z"}
+{"dd":{"env":"none","service":"to-do","version":"1.0.0"},"level":"info","message":"Winston logger is set up","timestamp":"2025-01-03T12:30:21.133Z"}
+{"dd":{"env":"none","service":"to-do","version":"1.0.0"},"level":"info","message":"Server is running on http://localhost:3000","timestamp":"2025-01-03T12:30:21.254Z"}
+{"dd":{"env":"none","service":"to-do","version":"1.0.0"},"level":"info","message":"Winston logger is set up","timestamp":"2025-01-03T12:30:30.256Z"}
+{"dd":{"env":"none","service":"to-do","version":"1.0.0"},"level":"info","message":"Server is running on http://localhost:3000","timestamp":"2025-01-03T12:30:30.375Z"}
